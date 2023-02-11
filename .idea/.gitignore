@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+misc.xml
+.idea
+modules.xml
+npe-chatapp-go.iml
+vcs.xml
